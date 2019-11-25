@@ -1,0 +1,19 @@
+# Java
+target/
+**/*.class
+
+# static resourcces
+**/bower_components/
+
+# bower
+.bowerrc
+
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+.springBeans
+.factorypath
+.apt_generated/
+.recommenders/
